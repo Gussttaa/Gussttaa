@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gustavo Lima
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Luiz Gustavo, tenho 21 anos e sou natural do Maranhão. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou estudante acido por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Em Breve... )", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Em Breve...)".
 
